@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>с++.jpg</file>
+        <file>python.jpg</file>
+    </qresource>
+</RCC>
